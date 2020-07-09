@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/41234408/87030767-b7a3ad80-c1ff-11ea-821e-4576c70faaa9.jpeg" width="100%"/>
+
 ### Hey there, I'm Yash 👋
 
 [![twitter badge](https://img.shields.io/badge/twitter-_p0lar_bear-0077b5?style=social&logo=twitter)](https://twitter.com/_p0lar_bear)
