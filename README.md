@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Yash 👋
 
 [![twitter badge](https://img.shields.io/badge/twitter-_p0lar_bear-0077b5?style=social&logo=twitter)](https://twitter.com/_p0lar_bear)
 [![linkedin badge](https://img.shields.io/badge/linkedin-yashk2000-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/yashk2000/)
