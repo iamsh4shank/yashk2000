@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Vision PPI](https://github.com/openMF/ppi-vision).
 - 🌱 I’m currently teaching computers how to see. 
-- 💬 Ask me about open source, copmuter vision, android development, flutter development and communities.
+- 💬 Ask me about open source, computer vision, android development, flutter development and communities.
 - 📫 How to reach me: Send an email to me at [yashsja@gmail.com](mailto:yashsja@gmail.com) or ping me on Telegram, [@yashk2000](https://t.me/yashk2000).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I use a laptop with a cracked screen.
