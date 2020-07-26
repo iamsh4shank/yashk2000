@@ -6,6 +6,8 @@
 [![linkedin badge](https://img.shields.io/badge/linkedin-yashk2000-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/yashk2000/)
 [![blog badge](https://img.shields.io/badge/blog-yashk2000.github.io/blog-1f425f?style=social)](https://yashk2000.github.io/blog)
 
+![](https://komarev.com/ghpvc/?username=yashk2000)
+
 - 🔭 I’m currently working on [Vision PPI](https://github.com/openMF/ppi-vision).
 - 🌱 I’m currently teaching computers how to see. 
 - 💬 Ask me about open source, computer vision, android development, flutter development and communities.
